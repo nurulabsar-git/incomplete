@@ -20,9 +20,23 @@ main{
 }
 
 .pic img{
-    width: 100px;
-    margin-right: 2px;
-    margin-bottom: 2px;
+   height: 50px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+
+}
+
+.pics{
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+.i-am-section-two{
+    height: 50%;
+    width: 91%;
+}
+.horizontal-line{
+    color: gray;
+    margin-top: 1%;
 
 }
 @media (max-width:822px){
